@@ -1,8 +1,8 @@
-package de.hs_furtwangen.informatik.meldeauskunft.service;
+package de.paustale.meldeauskunft.service;
 
 import java.util.List;
 
-import de.hs_furtwangen.informatik.meldeauskunft.domain.Resident;
+import de.paustale.meldeauskunft.domain.Resident;
 
 /**
  * @author Stefan Betermieux

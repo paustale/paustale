@@ -1,4 +1,4 @@
-package de.hs_furtwangen.informatik.meldeauskunft.service;
+package de.paustale.meldeauskunft.service;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import de.hs_furtwangen.informatik.meldeauskunft.domain.Resident;
-import de.hs_furtwangen.informatik.meldeauskunft.repository.ResidentRepository;
+import de.paustale.meldeauskunft.domain.Resident;
+import de.paustale.meldeauskunft.repository.ResidentRepository;
 
 /**
  * @author Stefan Betermieux

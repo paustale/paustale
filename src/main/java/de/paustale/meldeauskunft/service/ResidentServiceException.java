@@ -1,4 +1,4 @@
-package de.hs_furtwangen.informatik.meldeauskunft.service;
+package de.paustale.meldeauskunft.service;
 
 /**
  * @author Stefan Betermieux

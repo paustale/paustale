@@ -1,4 +1,4 @@
-package de.hs_furtwangen.informatik.meldeauskunft.domain;
+package de.paustale.meldeauskunft.domain;
 
 import java.io.Serializable;
 import java.util.Date;
