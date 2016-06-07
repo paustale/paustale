@@ -1,5 +1,6 @@
 package de.paustale;
 
+
 public class Util {
 
 	public static boolean istErstesHalbjahr(int monat){

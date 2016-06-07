@@ -1,5 +1,6 @@
 package de.paustale;
 
+
 import junit.framework.TestCase;
 
 public class QueueTest extends TestCase {

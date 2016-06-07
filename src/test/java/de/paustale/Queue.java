@@ -1,5 +1,6 @@
 package de.paustale;
 
+
 public class Queue {
    int[] queue;
    int head;
