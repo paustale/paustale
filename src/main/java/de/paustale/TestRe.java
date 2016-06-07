@@ -12,7 +12,7 @@ import de.paustale.meldeauskunft.repository.ResidentRepositoryStub;
 import de.paustale.meldeauskunft.service.BaseResidentService;
 import de.paustale.meldeauskunft.service.ResidentServiceException;
 
-public class ResidentTest {
+public class TestRe {
 
 	 List<Resident> liste = new ArrayList<Resident>();
 	    List<Resident> result = new ArrayList<Resident>();
